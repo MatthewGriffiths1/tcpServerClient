@@ -1,0 +1,5 @@
+/home/matt/dev/tcpclientserver/build/CMakeFiles/server.dir
+/home/matt/dev/tcpclientserver/build/CMakeFiles/client.dir
+/home/matt/dev/tcpclientserver/build/CMakeFiles/test.dir
+/home/matt/dev/tcpclientserver/build/CMakeFiles/edit_cache.dir
+/home/matt/dev/tcpclientserver/build/CMakeFiles/rebuild_cache.dir
